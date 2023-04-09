@@ -25,3 +25,7 @@
 .h-75px{
     height: 75px !important;
 }
+
+.rounded-pill {
+    border-radius: 1.75rem!important;
+}
